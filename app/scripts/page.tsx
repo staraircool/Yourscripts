@@ -72,7 +72,7 @@ export default function ScriptsPage() {
 
                 <Button asChild className="w-full">
                   <Link
-                    href="https://wa.me/447723454814?text=I'm%20interested%20in%20your%20Short%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
+                    href="https://wa.me/917888452882?text=I'm%20interested%20in%20your%20Short%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
                     target="_blank"
                     className="flex items-center justify-center gap-2"
                   >
@@ -123,7 +123,7 @@ export default function ScriptsPage() {
 
                 <Button asChild className="w-full">
                   <Link
-                    href="https://wa.me/447723454814?text=I'm%20interested%20in%20your%20Feature%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
+                    href="https://wa.me/917888452882?text=I'm%20interested%20in%20your%20Feature%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
                     target="_blank"
                     className="flex items-center justify-center gap-2"
                   >
@@ -271,7 +271,7 @@ export default function ScriptsPage() {
             Contact us today on WhatsApp to receive 10-15 free loglines tailored to your project needs.
           </p>
           <Button asChild size="lg">
-            <Link href="https://wa.me/447723454814" target="_blank" className="flex items-center gap-2">
+            <Link href="https://wa.me/917888452882" target="_blank" className="flex items-center gap-2">
               <MessageCircle className="h-5 w-5" />
               Contact Us on WhatsApp
             </Link>

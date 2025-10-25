@@ -39,7 +39,7 @@ export default function HowItWorksPage() {
               </div>
               <h2 className="text-xl font-bold">1. Contact Us</h2>
               <p className="text-muted-foreground">
-                Reach out to us via WhatsApp at +447723454814. Let us know what type of script you're looking for,
+                Reach out to us via WhatsApp at +917888452882. Let us know what type of script you're looking for,
                 including genre preferences, length (short or feature), and any specific elements you'd like to see.
               </p>
             </div>
@@ -241,7 +241,7 @@ export default function HowItWorksPage() {
               </ul>
               <Button asChild className="w-full">
                 <Link
-                  href="https://wa.me/447723454814?text=I'm%20interested%20in%20your%20Short%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
+                  href="https://wa.me/917888452882?text=I'm%20interested%20in%20your%20Short%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
                   target="_blank"
                 >
                   Get Loglines
@@ -280,7 +280,7 @@ export default function HowItWorksPage() {
               </ul>
               <Button asChild className="w-full">
                 <Link
-                  href="https://wa.me/447723454814?text=I'm%20interested%20in%20your%20Feature%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
+                  href="https://wa.me/917888452882?text=I'm%20interested%20in%20your%20Feature%20Film%20Scripts.%20Please%20send%20me%20some%20loglines."
                   target="_blank"
                 >
                   Get Loglines
